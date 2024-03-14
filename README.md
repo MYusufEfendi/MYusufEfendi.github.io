@@ -2,6 +2,8 @@
 
 #### [blog post](https://kimjunho97.tistory.com/21)
 
+#### [REdirect to apps](tdz://genius-team.com)
+
 [Android 앱 링크 인증하기](https://developer.android.com/training/app-links/verify-android-applinks?hl=ko)
 
 [flutter keystore](https://docs.flutter.dev/deployment/android)
