@@ -3,7 +3,7 @@
   "apps": [],
   "details": [{
    "appID": "1603364371.com.agros.shipper.agrosShipper",
-   "paths": ["/promos/*"]
+   "paths": ["/*"]
   }]
  }
 }
