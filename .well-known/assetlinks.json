@@ -1,1 +1,5 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.agros.shipper.agrosShipper",
+               "sha256_cert_fingerprints": ["8E:19:73:A9:A1:10:D6:0E:DD:8B:E0:B1:ED:F4:71:AC:7E:56:8E:02:09:DC:B7:D8:5E:5B:6D:79:39:BC:F4:E0"] }
+}]
