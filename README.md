@@ -4,6 +4,8 @@
 
 #### [REdirect to apps](tdz://genius-team.com)
 
+#### [DEEP LINK](agros-shop://myusufefendi.github.io/?product=126)
+
 [Android 앱 링크 인증하기](https://developer.android.com/training/app-links/verify-android-applinks?hl=ko)
 
 [flutter keystore](https://docs.flutter.dev/deployment/android)
