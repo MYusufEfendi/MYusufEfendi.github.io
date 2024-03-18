@@ -6,9 +6,15 @@
       "details":[
          {
             "appID":"XAYG582BG6.com.agros.shipper.agrosShipper",
-            "paths":[
-               "*",
-               "/"
+            "components":[
+               {
+                  "/":"*",
+                  "comment":"Matches any URL whose path is * and instructs the system to open it as a Universal link"
+               },
+               {
+                  "/":"/",
+                  "comment":"Matches any URL whose path is / and instructs the system to open it as a Universal link"
+               }
             ]
          }
       ]
