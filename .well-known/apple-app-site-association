@@ -1,9 +1,16 @@
 {
- "applinks": {
-  "apps": [],
-  "details": [{
-   "appID": "1603364371.com.agros.shipper.agrosShipper",
-   "paths": ["/*"]
-  }]
- }
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "appID":"1603364371.com.agros.shipper.agrosShipper",
+            "paths":[
+               "*",
+               "/"
+            ]
+         }
+      ]
+   }
 }
