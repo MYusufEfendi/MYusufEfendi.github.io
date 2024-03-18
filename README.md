@@ -2,7 +2,7 @@
 
 #### [blog post](https://kimjunho97.tistory.com/21)
 
-#### [REdirect to apps](tdz://genius-team.com)
+#### [REdirect to apps](agros-shop://myusufefendi.github.io/?product=126)
 
 #### [DEEP LINK](agros-shop://myusufefendi.github.io/?product=126)
 
