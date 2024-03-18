@@ -1,22 +1,23 @@
 {
-   "applinks":{
-      "apps":[
-         
-      ],
-      "details":[
-         {
-            "appID":"XAYG582BG6.com.agros.shipper.agrosShipper",
-            "components":[
-               {
-                  "/":"*",
-                  "comment":"Matches any URL whose path is * and instructs the system to open it as a Universal link"
-               },
-               {
-                  "/":"/",
-                  "comment":"Matches any URL whose path is / and instructs the system to open it as a Universal link"
-               }
-            ]
-         }
-      ]
-   }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "XAYG582BG6.com.agros.shipper.agrosShipper",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "XAYG582BG6.com.agros.shipper.agrosShipper"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "XAYG582BG6.com.agros.shipper.agrosShipper"
+    ]
+  }
 }
