@@ -111,6 +111,3 @@ Feel free to explore the projects, and if you have any inquiries or collaboratio
 - **LinkedIn**: [Muhammad Yusuf Efendi](https://id.linkedin.com/in/yusuf-efendi-7949681b7)
 
 ---
-
-### Note:
-Replace the `path-to-image` with the actual file paths of the images in your repository. For example, if your images are in a folder named `assets`, the path should be `assets/agros_partner.png`.
