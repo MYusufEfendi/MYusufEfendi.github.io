@@ -1,48 +1,98 @@
-## [Set up app links for Android](https://docs.flutter.dev/cookbook/navigation/set-up-app-links)
+# Muhammad Yusuf Efendi - Flutter Developer Portfolio
 
-#### [blog post](https://kimjunho97.tistory.com/21)
-
-#### [REdirect to apps](agros-shop://myusufefendi.github.io/?product=126)
-
-#### [DEEP LINK](agros-shop://myusufefendi.github.io/?product=126)
-
-[Android 앱 링크 인증하기](https://developer.android.com/training/app-links/verify-android-applinks?hl=ko)
-
-[flutter keystore](https://docs.flutter.dev/deployment/android)
-
-- flutter project에 로컬 키 저장소 파일 생성
-
-```
-keytool -genkeypair -v -keystore my-release-key.keystore -keyalg RSA -keysize 2048 -validity 10000 -alias my-key-alias
-```
-
-- key 보기
-
-```
-keytool -list -v -keystore my-release-key.keystore
-```
-
-- Certificate fingerprints의 'SHA256' 찾기
-
-- test
-
-```
+Welcome to my portfolio! I am a dedicated Flutter Developer with expertise in building robust, scalable, and user-friendly mobile applications. Below is an overview of some key projects I have successfully developed and deployed.
 
 ---
 
-## [IOS universal-links](https://docs.flutter.dev/cookbook/navigation/set-up-universal-links)
+## 🚛 AGROS Partner
+An app designed for transporters and drivers to streamline logistic operations.
 
+### Features:
+- Two roles: Driver and Transporter
+- Real-time driver tracking with Google Maps
+- FCM Notifications with custom icons and sounds
+- Firebase Crashlytics for error monitoring
+- Clean architecture and GetX for state management
+- File download functionality
+- Uploaded to both Play Store and App Store
 
-- test
-
-```
-xcrun simctl openurl booted https://kimjuno97.github.io/details
-```
+### Links:
+- [Play Store](https://play.google.com/store/apps/details?id=com.agros.logistic&hl=in&gl=US)
+- [App Store](https://apps.apple.com/id/app/agros-partner/id6474294191?l=id)
 
 ---
 
-### apple-app-site-association
+## 📦 AGROS Shipper
+An app for creating cargo orders and assigning them to transporters and drivers.
 
-1. webcredentials": "webcredentials"는 Associated Domains 설정에 추가되는 키로, 앱과 관련된 웹 자격 증명을 지정하는 데 사용됩니다. 이를 통해 사용자가 웹 사이트에 로그인할 때 앱과의 싱크를 맞출 수 있습니다. "webcredentials" 키에는 앱의 도메인 이름을 지정해야 합니다.
+### Features:
+- Order creation and management
+- FCM Notifications with custom icons and sounds
+- Clean architecture and GetX for state management
+- Firebase Crashlytics for monitoring
+- File download functionality
+- Published on Play Store and App Store
 
-2. "appclips": "appclips"는 iOS 14부터 도입된 기능으로, 앱의 일부 기능을 즉시 사용할 수 있는 작은 앱 클립을 제공합니다. "appclips"를 설정하면 사용자가 특정 액션을 수행할 때 앱의 일부 기능을 빠르게 실행할 수 있습니다.
+### Links:
+- [Play Store](https://play.google.com/store/apps/details?id=com.agros.shipper.agrosShipper)
+- [App Store](https://apps.apple.com/id/app/agros/id1603364371?l=id)
+
+---
+
+## 💰 TASIO
+An application for savings management, targeting students and institutions.
+
+### Features:
+- Real-time savings data
+- Downloadable recapitulations
+- Date filtering, rankings, and graphical representations
+- Firebase Firestore and Auth integration
+- AdMob for monetization
+- Clean architecture using MVVM/MVC pattern
+- Published on Play Store
+
+### Links:
+- [Play Store](https://play.google.com/store/apps/details?id=com.tasio.app&hl=en-ID)
+
+---
+
+## 🩺 Heyvva Health
+A digital health app for pregnant women to access relevant information before, during, and after pregnancy.
+
+### Features:
+- News and article listing
+- Login with Google and Apple accounts
+- Registration and login system
+- Mood tracker for users
+- API integrations and Figma-based design
+- Clean architecture using MVVM/MVC pattern
+
+---
+
+## 📰 Antara News Apps
+A news portal application for delivering real-time news.
+
+### Features:
+- Dynamic API integration for news articles
+- Clean architecture with MVVM/MVC pattern
+- Designed with Figma
+- State management with GetX
+
+---
+
+## 🛠 Skills
+- **Flutter**: Building cross-platform applications
+- **State Management**: Expertise in GetX
+- **Architecture**: Clean architecture, MVVM, MVC patterns
+- **Firebase**: Firestore, Authentication, Crashlytics
+- **Version Control**: GitLab and GitHub
+- **UI Design**: Proficient in translating Figma designs to code
+- **APIs**: Integration of RESTful APIs
+- **Real-time Tracking**: Google Maps integration for live updates
+
+---
+
+## 💼 Let's Collaborate!
+Feel free to explore the projects, and if you have any inquiries or collaboration ideas, don’t hesitate to get in touch!
+
+---
