@@ -105,6 +105,11 @@ A news portal application for delivering real-time news.
 ## 💼 Let's Collaborate!
 Feel free to explore the projects, and if you have any inquiries or collaboration ideas, don’t hesitate to get in touch!
 
+### 📞 Contact Information:
+- **Email**: yusufefendi.dev@gmail.com
+- **Phone**: +62 857-0654-7341
+- **LinkedIn**: [Muhammad Yusuf Efendi](https://id.linkedin.com/in/yusuf-efendi-7949681b7)
+
 ---
 
 ### Note:
